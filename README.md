@@ -4,7 +4,7 @@ A pixel art font.
 
 ## Table of Contents
 
-- [Support Characters](#supported-characters)
+- [Supported Characters](#supported-characters)
 
 ## Supported Characters
 
