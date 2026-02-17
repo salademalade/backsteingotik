@@ -2,6 +2,9 @@
 
 A pixel art font.
 
+> [!NOTE]
+> The font currently only supports the South Korean standard of CJK Ideographs. Support for other standards is planned.
+
 ## Table of Contents
 
 - [Supported Characters](#supported-characters)
