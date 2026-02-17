@@ -17,6 +17,7 @@ Legend:
 |--------------------------------------------------------|--------------------|
 | Basic Latin (U+0000 - U+007F)                          | :white_check_mark: |
 | Latin-1 Supplement (U+0080 - U+00FF)                   | :white_check_mark: |
+| Cyrillic (U+0400 - U+04FF)                             | :yellow_square:    |
 | Hangul Jamo (U+1100 - U+11FF)                          | :yellow_square:    |
 | General Punctuation (U+2000 - U+206F)                  | :yellow_square:    |
 | Kangxi Radicals (U+2F00 - U+2FDF)                      | :white_check_mark: |
