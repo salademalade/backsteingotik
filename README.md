@@ -27,7 +27,9 @@ Legend:
 | Ideographic Description Characters (U+2FF0 - U+2FFF)   | :white_check_mark: |
 | CJK Symbols and Punctuation (U+3000 - U+303F)          | :yellow_square:    |
 | Hiragana (U+3040 - U+309F)                             | :yellow_square:    |
-| Katakana (U+30A0 - U+30FF)                             | :yellow_square:    |
+| Katakana (U+30A0 - U+30FF)                             | :white_check_mark: |
+| Bopomofo (U+3100 - U+312F)                             | :white_check_mark: |
+| Hangul Compatibility Jamo (U+3140 - U+318F)            | :yellow_square:    |
 | Kanbun (U+3190 - U+319F)                               | :white_check_mark: |
 | Enclosed CJK Letters and Months (U+3200 - U+32FF)      | :green_square:     |
 | CJK Compatibility (U+3300 - U+33FF)                    | :green_square:     |
