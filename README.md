@@ -33,6 +33,6 @@ A pixel art font.
 | CJK Compatibility (U+3300 - U+33FF)                    | 255/256    | 99.61%     |
 | CJK Unified Ideographs Extension A (U+3400 - U+4DBF)   | 1/6592     | 0.02%      |
 | CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1136/20992 | 5.41%      |
-| Hangul Syllables (U+AC00 - U+D7AF)                     | 217/11172  | 1.94%      |
+| Hangul Syllables (U+AC00 - U+D7AF)                     | 409/11172  | 3.66%      |
 | Halfwidth and Fullwidth Forms (U+FF00 - U+FFEF)        | 224/225    | 99.56%     |
 | CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 7/42720    | 0.02%      |
