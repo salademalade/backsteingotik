@@ -9,6 +9,10 @@ A pixel art font.
 
 - [Supported Characters](#supported-characters)
   - [Unicode](#unicode)
+- [Limitations](#limitations)
+  - [Enclosed CJK Letters and Months](#enclosed-cjk-letters-and-months)
+  - [CJK Compatibility](#cjk-compatibility)
+  - [CJK Unified Ideographs](#cjk-unified-ideographs)
 
 ## Supported Characters
 
@@ -37,3 +41,32 @@ A pixel art font.
 | Hangul Syllables (U+AC00 - U+D7AF)                     | 584/11172  | 5.23%      |
 | Halfwidth and Fullwidth Forms (U+FF00 - U+FFEF)        | 224/225    | 99.56%     |
 | CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 7/42720    | 0.02%      |
+
+## Limitations
+
+> [!NOTE]
+> If you find a character that is illegible, please [submit an issue](https://github.com/salademalade/backsteingotik/issues) on GitHub.
+
+The following characters are known to be unlikely to be supported due to limitations with the pixel art:
+
+### Enclosed CJK Letters and Months
+
+| Character | Codepoint | Name                                 | Alternatives |
+|-----------|-----------|--------------------------------------|--------------|
+| ㈝        | U+321D    | PARENTHESIZED KOREAN CHARACTER OJEON | `(오전)`     |
+| ㈞        | U+321E    | PARENTHESIZED KOREAN CHARACTER OHU   | `(오후)`     |
+| ㉼        | U+327C    | CIRCLED KOREAN CHARACTER CHAMKO      | `(참고)`     |
+| ㉽        | U+327D    | CIRCLED KOREAN CHARACTER JUEUI       | `(주의)`     |
+
+### CJK Compatibility
+
+| Character | Codepoint | Name               | Alternatives |
+|-----------|-----------|--------------------|--------------|
+| ㍿        | U+337F    | SQUARE CORPORATION |              |
+
+### CJK Unified Ideographs
+
+| Character | Codepoint | Name                       | Alternatives |
+|-----------|-----------|----------------------------|--------------|
+| 佩        | U+4F69    | CJK UNIFIED IDEOGRAPH-4F69 |              |
+| 俯        | U+4FEF    | CJK UNIFIED IDEOGRAPH-4FEF |              |
