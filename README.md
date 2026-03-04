@@ -24,7 +24,7 @@ A pixel art font.
 | Latin-1 Supplement (U+0080 - U+00FF)                   | 96/96      | 100.00%    |
 | Latin Extended-A (U+0100 - U+017F)                     | 128/128    | 100.00%    |
 | Cyrillic (U+0400 - U+04FF)                             | 249/256    | 97.27%     |
-| Hangul Jamo (U+1100 - U+11FF)                          | 67/256     | 26.17%     |
+| Hangul Jamo (U+1100 - U+11FF)                          | 138/256    | 53.91%     |
 | General Punctuation (U+2000 - U+206F)                  | 71/111     | 63.96%     |
 | Kangxi Radicals (U+2F00 - U+2FDF)                      | 214/214    | 100.00%    |
 | Ideographic Description Characters (U+2FF0 - U+2FFF)   | 16/16      | 100.00%    |
@@ -37,8 +37,8 @@ A pixel art font.
 | Enclosed CJK Letters and Months (U+3200 - U+32FF)      | 251/255    | 98.43%     |
 | CJK Compatibility (U+3300 - U+33FF)                    | 255/256    | 99.61%     |
 | CJK Unified Ideographs Extension A (U+3400 - U+4DBF)   | 1/6592     | 0.02%      |
-| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1222/20992 | 5.82%      |
-| Hangul Syllables (U+AC00 - U+D7AF)                     | 584/11172  | 5.23%      |
+| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1308/20992 | 6.23%      |
+| Hangul Syllables (U+AC00 - U+D7AF)                     | 611/11172  | 5.47%      |
 | Halfwidth and Fullwidth Forms (U+FF00 - U+FFEF)        | 224/225    | 99.56%     |
 | CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 7/42720    | 0.02%      |
 
