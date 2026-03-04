@@ -2,9 +2,6 @@
 
 A pixel art font.
 
-> [!NOTE]
-> The font currently only supports the South Korean standard of CJK Ideographs. Support for other standards is planned.
-
 ## Table of Contents
 
 - [Supported Characters](#supported-characters)
@@ -15,6 +12,10 @@ A pixel art font.
   - [CJK Unified Ideographs](#cjk-unified-ideographs)
 
 ## Supported Characters
+
+> [!NOTE]
+> The font currently only supports the South Korean standard of CJK Ideographs.
+> Support for other standards is planned.
 
 ### Unicode
 
@@ -37,7 +38,7 @@ A pixel art font.
 | Enclosed CJK Letters and Months (U+3200 - U+32FF)      | 251/255    | 98.43%     |
 | CJK Compatibility (U+3300 - U+33FF)                    | 255/256    | 99.61%     |
 | CJK Unified Ideographs Extension A (U+3400 - U+4DBF)   | 1/6592     | 0.02%      |
-| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1308/20992 | 6.23%      |
+| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1317/20992 | 6.27%      |
 | Hangul Syllables (U+AC00 - U+D7AF)                     | 611/11172  | 5.47%      |
 | Halfwidth and Fullwidth Forms (U+FF00 - U+FFEF)        | 224/225    | 99.56%     |
 | CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 7/42720    | 0.02%      |
@@ -45,9 +46,12 @@ A pixel art font.
 ## Limitations
 
 > [!NOTE]
-> If you find a character that is illegible, please [submit an issue](https://github.com/salademalade/backsteingotik/issues) on GitHub.
+> If you find a character that is illegible, please
+> [submit an issue](https://github.com/salademalade/backsteingotik/issues)
+> on GitHub.
 
-The following characters are known to be unlikely to be supported due to limitations with the pixel art:
+The following characters are known to be unlikely to be supported due to
+limitations with the pixel art:
 
 ### Enclosed CJK Letters and Months
 
