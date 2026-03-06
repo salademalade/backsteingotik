@@ -24,8 +24,10 @@ A pixel art font.
 | Basic Latin (U+0000 - U+007F)                          | 95/95      | 100.00%    |
 | Latin-1 Supplement (U+0080 - U+00FF)                   | 96/96      | 100.00%    |
 | Latin Extended-A (U+0100 - U+017F)                     | 128/128    | 100.00%    |
+| Latin Extended-B (U+0180 - U+024F)                     | 20/208     | 9.62%      |
 | Cyrillic (U+0400 - U+04FF)                             | 249/256    | 97.27%     |
-| Hangul Jamo (U+1100 - U+11FF)                          | 138/256    | 53.91%     |
+| Latin Extended Additional (U+1E00 - U+1EFF)            | 91/256     | 35.55%     |
+| Hangul Jamo (U+1100 - U+11FF)                          | 143/256    | 55.86%     |
 | General Punctuation (U+2000 - U+206F)                  | 71/111     | 63.96%     |
 | Kangxi Radicals (U+2F00 - U+2FDF)                      | 214/214    | 100.00%    |
 | Ideographic Description Characters (U+2FF0 - U+2FFF)   | 16/16      | 100.00%    |
@@ -37,11 +39,13 @@ A pixel art font.
 | Kanbun (U+3190 - U+319F)                               | 16/16      | 100.00%    |
 | Enclosed CJK Letters and Months (U+3200 - U+32FF)      | 251/255    | 98.43%     |
 | CJK Compatibility (U+3300 - U+33FF)                    | 255/256    | 99.61%     |
-| CJK Unified Ideographs Extension A (U+3400 - U+4DBF)   | 1/6592     | 0.02%      |
-| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1317/20992 | 6.27%      |
-| Hangul Syllables (U+AC00 - U+D7AF)                     | 611/11172  | 5.47%      |
+| CJK Unified Ideographs Extension A (U+3400 - U+4DBF)   | 5/6592     | 0.08%      |
+| Yijing Hexagrams (U+4DC0 - U+4DFF)                     | 3/64       | 4.69%      |
+| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1345/20992 | 6.41%      |
+| Hangul Syllables (U+AC00 - U+D7AF)                     | 617/11172  | 5.52%      |
 | Halfwidth and Fullwidth Forms (U+FF00 - U+FFEF)        | 224/225    | 99.56%     |
-| CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 7/42720    | 0.02%      |
+| CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 10/42720   | 0.02%      |
+| CJK Unified Ideographs Extension H (U+31350 - U+323AF) | 1/4192     | 0.02%      |
 
 ## Limitations
 
