@@ -41,8 +41,8 @@ A pixel art font.
 | CJK Compatibility (U+3300 - U+33FF)                    | 255/256    | 99.61%     |
 | CJK Unified Ideographs Extension A (U+3400 - U+4DBF)   | 5/6592     | 0.08%      |
 | Yijing Hexagrams (U+4DC0 - U+4DFF)                     | 64/64      | 100.00%    |
-| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1395/20992 | 6.65%      |
-| Hangul Syllables (U+AC00 - U+D7AF)                     | 700/11172  | 6.27%      |
+| CJK Unified Ideographs (U+4E00 - U+9FFF)               | 1441/20992 | 6.86%      |
+| Hangul Syllables (U+AC00 - U+D7AF)                     | 743/11172  | 6.65%      |
 | Halfwidth and Fullwidth Forms (U+FF00 - U+FFEF)        | 224/225    | 99.56%     |
 | CJK Unified Ideographs Extension B (U+20000 - U+2A6DF) | 10/42720   | 0.02%      |
 | CJK Unified Ideographs Extension H (U+31350 - U+323AF) | 1/4192     | 0.02%      |
